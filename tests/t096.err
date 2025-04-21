@@ -1,0 +1,9 @@
+Semantic error on line 1: The array 'apple' was declared with illegal size '-20'. Arrays sizes must be integers of 1 or larger.
+Semantic error on line 2: The array 'banana' was declared with illegal size '-20'. Arrays sizes must be integers of 1 or larger.
+Semantic error on line 3: The array 'carrot' was declared with illegal size '-20'. Arrays sizes must be integers of 1 or larger.
+Semantic error on line 5: The given expression is not a legal type for the size of array <apple2>.  The size must be an integer.  Given expression is of type string.
+Semantic error on line 6: The given expression is not a legal type for the size of array <banana2>.  The size must be an integer.  Given expression is of type string.
+Semantic error on line 7: The given expression is not a legal type for the size of array <carrot2>.  The size must be an integer.  Given expression is of type string.
+Semantic error on line 9: The given expression is not a legal type for the size of array <apple3>.  The size must be an integer.  Given expression is of type double.
+Semantic error on line 10: The given expression is not a legal type for the size of array <banana3>.  The size must be an integer.  Given expression is of type double.
+Semantic error on line 11: The given expression is not a legal type for the size of array <carrot3>.  The size must be an integer.  Given expression is of type double.

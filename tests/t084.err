@@ -1,0 +1,5 @@
+Semantic error on line 1: Incorrect type (double) for initial value of variable 'a' of type (int).
+Semantic error on line 2: Incorrect type (double) for initial value of variable 'b' of type (int).
+Semantic error on line 3: Invalid right operand for operator 'atan'.
+Semantic error on line 4: Invalid right operand for operator 'atan'.
+Semantic error on line 5: Invalid right operand for operator 'atan'.

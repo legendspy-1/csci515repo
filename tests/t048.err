@@ -1,0 +1,6 @@
+Semantic error on line 1: Invalid right operand for operator '&&'.
+Semantic error on line 2: Invalid right operand for operator '&&'.
+Semantic error on line 3: Invalid left operand for operator '&&'.
+Semantic error on line 4: Invalid left operand for operator '&&'.
+Semantic error on line 5: Invalid left operand for operator '&&'.
+Semantic error on line 5: Invalid right operand for operator '&&'.

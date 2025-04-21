@@ -1,0 +1,5 @@
+Semantic error on line 1: Incorrect type (string) for initial value of variable 'c' of type (double).
+Semantic error on line 2: Incorrect type (string) for initial value of variable 'f' of type (double).
+Semantic error on line 3: Incorrect type (string) for initial value of variable 'g' of type (double).
+Semantic error on line 4: Incorrect type (string) for initial value of variable 'h' of type (double).
+Semantic error on line 5: Incorrect type (string) for initial value of variable 'i' of type (double).

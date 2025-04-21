@@ -1,0 +1,9 @@
+Semantic error on line 1: Incorrect type (double) for initial value of variable 'b' of type (int).
+Semantic error on line 2: Invalid right operand for operator '-'.
+Semantic error on line 3: Incorrect type (double) for initial value of variable 'd' of type (int).
+Semantic error on line 4: Incorrect type (double) for initial value of variable 'e' of type (int).
+Semantic error on line 5: Invalid right operand for operator '-'.
+Semantic error on line 6: Invalid left operand for operator '-'.
+Semantic error on line 7: Invalid left operand for operator '-'.
+Semantic error on line 8: Invalid left operand for operator '-'.
+Semantic error on line 8: Invalid right operand for operator '-'.

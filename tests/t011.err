@@ -1,0 +1,8 @@
+Semantic error on line 1: Incorrect type (double) for initial value of variable 'b' of type (int).
+Semantic error on line 2: Incorrect type (string) for initial value of variable 'c' of type (int).
+Semantic error on line 3: Incorrect type (double) for initial value of variable 'd' of type (int).
+Semantic error on line 4: Incorrect type (double) for initial value of variable 'e' of type (int).
+Semantic error on line 5: Incorrect type (string) for initial value of variable 'f' of type (int).
+Semantic error on line 6: Incorrect type (string) for initial value of variable 'g' of type (int).
+Semantic error on line 7: Incorrect type (string) for initial value of variable 'h' of type (int).
+Semantic error on line 8: Incorrect type (string) for initial value of variable 'i' of type (int).
