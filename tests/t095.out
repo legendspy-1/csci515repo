@@ -1,0 +1,43 @@
+gpl.cpp::main()
+  input file(tests/t095.gpl)
+  random seed(42)
+  read_keypresses_from_standard_input(true)
+  dump_pixels(false)
+  symbol_table(true)
+  graphics(false)
+
+gpl.cpp::main() Calling yyparse()
+
+
+gpl.cpp::main() after call to yyparse().
+
+No errors found (parser probably worked correctly).
+
+
+Printing the symbol table from main()
+int apple[0] = 0
+int apple[1] = 1
+int apple[2] = 2
+int apple[3] = 3
+int apple[4] = 4
+int apple[5] = 5
+int apple[6] = 6
+double banana[0] = 0.5
+double banana[1] = 1.5
+double banana[2] = 2.5
+double banana[3] = 3.5
+double banana[4] = 4.5
+double banana[5] = 5.5
+double banana[6] = 6.5
+double banana[7] = 7.5
+double banana[8] = 8.5
+double banana[9] = 9.5
+double banana[10] = 10.5
+double banana[11] = 11.5
+string carrot[0] = "0"
+string carrot[1] = "1"
+string carrot[2] = "2"
+string carrot[3] = "3"
+Graphics is turned off by the Makefile.  Program exiting.
+
+gpl.cpp::main() done.
