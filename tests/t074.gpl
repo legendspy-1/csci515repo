@@ -1,0 +1,5 @@
+int a = sin( 7 );
+int b = sin( 12.5 );
+int c = sin( "bobbing" );
+double f = sin( "bobbing" );
+string i = sin( "bobbing" );

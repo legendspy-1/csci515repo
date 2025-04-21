@@ -1,0 +1,3 @@
+int c = floor( "bobbing" );
+double f = floor( "bobbing" );
+string i = floor( "bobbing" );

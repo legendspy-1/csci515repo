@@ -1,0 +1,5 @@
+int a = atan( 7 );
+int b = atan( 12.5 );
+int c = atan( "bobbing" );
+double f = atan( "bobbing" );
+string i = atan( "bobbing" );

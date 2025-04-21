@@ -1,0 +1,3 @@
+int apple[3+4];
+double banana[3*4];
+string carrot[12/3];

@@ -1,0 +1,8 @@
+// random accepts INT and DOUBLE >= 2.0
+// double values are rounded down
+// While evaluating, if the operand is < 2.0,
+// report INVALID_ARGUMENT_FOR_RANDOM
+// and use 2 as the argument.
+int i = random(-42);
+int j = random(-12.345);
+int k = random(0.345);

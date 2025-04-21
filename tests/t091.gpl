@@ -1,0 +1,8 @@
+// when a double is passed to random, it should be rounded down
+//
+int a = random( 7 );
+int b = random( 12.5 );
+double d = random( 7 );
+double e = random( 12.5 );
+string g = random( 7 );
+string h = random( 12.5 );

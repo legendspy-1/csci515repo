@@ -1,0 +1,6 @@
+// use std::numbers::pi from #include<numbers> (as of C++20)
+// DO NOT CREATE YOUR OWN VALUE FOR PI
+double d = cos( 7 );
+double e = cos( 12.5 );
+string g = cos( 7 );
+string h = cos( 12.5 );

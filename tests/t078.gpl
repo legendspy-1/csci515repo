@@ -1,0 +1,5 @@
+int a = tan( 7 );
+int b = tan( 12.5 );
+int c = tan( "bobbing" );
+double f = tan( "bobbing" );
+string i = tan( "bobbing" );

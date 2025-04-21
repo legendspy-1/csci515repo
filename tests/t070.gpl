@@ -1,0 +1,4 @@
+int b = -12.5;
+int c = -"bobbing";
+double f = -"bobbing";
+string i = -"bobbing";

@@ -1,0 +1,4 @@
+double d = sqrt( 7 );
+double e = sqrt( 12.5 );
+string g = sqrt( 7 );
+string h = sqrt( 12.5 );

@@ -1,0 +1,5 @@
+int a = acos( 7 );
+int b = acos( 12.5 );
+int c = acos( "bobbing" );
+double f = acos( "bobbing" );
+string i = acos( "bobbing" );

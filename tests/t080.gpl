@@ -1,0 +1,5 @@
+int a = asin( 7 );
+int b = asin( 12.5 );
+int c = asin( "bobbing" );
+double f = asin( "bobbing" );
+string i = asin( "bobbing" );

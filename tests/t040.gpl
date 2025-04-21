@@ -1,0 +1,5 @@
+int c = 7 || "apples";
+int f = 12.5 || "apples";
+int g = "bobbing" || 2;
+int h = "bobbing" || 4.2;
+int i = "bobbing" || "apples";

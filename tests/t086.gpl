@@ -1,0 +1,5 @@
+int a = sqrt( 7 );
+int b = sqrt( 12.5 );
+int c = sqrt( "bobbing" );
+double f = sqrt( "bobbing" );
+string i = sqrt( "bobbing" );

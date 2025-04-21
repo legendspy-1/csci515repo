@@ -1,0 +1,6 @@
+int a = !7;
+int b = !12.5;
+double d = !7;
+double e = !12.5;
+string g = !7;
+string h = !12.5;

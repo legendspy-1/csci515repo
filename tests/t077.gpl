@@ -1,0 +1,6 @@
+// use std::numbers::pi from #include<numbers> (as of C++20)
+// DO NOT CREATE YOUR OWN VALUE FOR PI
+double d = tan( 7 );
+double e = tan( 12.5 );
+string g = tan( 7 );
+string h = tan( 12.5 );

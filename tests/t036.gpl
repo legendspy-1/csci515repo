@@ -1,0 +1,5 @@
+double c = 7 / "apples";
+double f = 12.5 / "apples";
+double g = "bobbing" / 2;
+double h = "bobbing" / 4.2;
+double i = "bobbing" / "apples";

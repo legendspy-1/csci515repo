@@ -1,0 +1,9 @@
+int a = 7 == 2;
+int b = 7 == 4.2;
+int c = 7 == "apples";
+int d = 12.5 == 2;
+int e = 12.5 == 4.2;
+int f = 12.5 == "apples";
+int g = "bobbing" == 2;
+int h = "bobbing" == 4.2;
+int i = "bobbing" == "apples";

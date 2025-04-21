@@ -1,0 +1,4 @@
+string a = 7 || 2;
+string b = 7 || 4.2;
+string d = 12.5 || 2;
+string e = 12.5 || 4.2;

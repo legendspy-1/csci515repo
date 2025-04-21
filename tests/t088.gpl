@@ -1,0 +1,4 @@
+int b = abs( 12.5 );
+int c = abs( "bobbing" );
+double f = abs( "bobbing" );
+string i = abs( "bobbing" );

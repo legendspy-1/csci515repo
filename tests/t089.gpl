@@ -1,0 +1,6 @@
+int a = floor( 7 );
+int b = floor( 12.8 );
+double d = floor( 7 );
+double e = floor( 12.59 );
+string g = floor( 7 );
+string h = floor( 12.05 );

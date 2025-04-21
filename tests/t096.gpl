@@ -1,0 +1,11 @@
+int apple[-20];
+double banana[-20];
+string carrot[-20];
+
+int apple2["bang!"];
+double banana2["bang!"];
+string carrot2["bang!"];
+
+int apple3[3.14];
+double banana3[3.14];
+string carrot3[3.14];

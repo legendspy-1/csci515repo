@@ -1,0 +1,7 @@
+int a = abs( 7 );
+int b = abs( -7 );
+double d = abs( 7 );
+double e = abs( 12.5 );
+double f = abs( -12.5 );
+string g = abs( 7 );
+string h = abs( 12.5 );

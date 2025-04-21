@@ -1,0 +1,3 @@
+//Doubles cannot be assigned to integers.
+//This should generate an error message
+int some_number=3.14;

@@ -1,0 +1,3 @@
+int c = random( "bobbing" );
+double f = random( "bobbing" );
+string i = random( "bobbing" );

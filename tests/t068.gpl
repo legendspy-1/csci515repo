@@ -1,0 +1,9 @@
+string a = 7 != 2;
+string b = 7 != 4.2;
+string c = 7 != "apples";
+string d = 12.5 != 2;
+string e = 12.5 != 4.2;
+string f = 12.5 != "apples";
+string g = "bobbing" != 2;
+string h = "bobbing" != 4.2;
+string i = "bobbing" != "apples";
