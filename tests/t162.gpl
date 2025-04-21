@@ -1,0 +1,9 @@
+// Even though assigning a string to 
+// some_measurement is a compiler error,
+// The compiler should recover by adding
+// some_measurement to the symbol table with
+// a default value. The initialization of
+// ernie on line 9 will not be an error 
+// if the compiler has recovered correctly.
+double some_measurement="Happy Days";
+double ernie=some_measurement;

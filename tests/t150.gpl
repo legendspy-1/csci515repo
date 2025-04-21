@@ -1,0 +1,4 @@
+int index = 3;
+string my_string = index;
+int stairs[10];
+int x = stairs[my_string];

@@ -1,0 +1,9 @@
+// Even though assigning a float to 
+// some_number is a compiler error,
+// The compiler should recover by adding
+// some_number to the symbol table with
+// a default value. The initialization of
+// bert on line 9 will not be an error 
+// if the compiler has recovered correctly.
+int some_number=3.14;
+int bert=some_number;

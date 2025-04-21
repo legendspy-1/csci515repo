@@ -1,0 +1,7 @@
+// There is an error on line 6 because the index
+// must be an integer. If this occurs the compiler
+// should recover by adding some_array to the 
+// symbol table as a single element array.
+// So, line 7 should not be an error.
+double some_array["fdsa"];
+double y=some_array[0];

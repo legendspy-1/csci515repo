@@ -1,0 +1,11 @@
+// default values should be 0
+int int_array[3];
+
+// string should be equal to "1"
+string s_int = int_array[1];
+
+// default values should be 0.5, 1.5, 2.5
+double double_array[3];
+
+// string should be equal to "1.500000"
+string s_double = double_array[1];

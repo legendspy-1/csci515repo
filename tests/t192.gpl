@@ -1,0 +1,8 @@
+double four_point_two = 4.2;
+int not_four_point_two  = !four_point_two;
+
+double zero = 0.0;
+int not_zero = !zero;
+
+// gpl and C++ print this as "-0"
+double negative_zero = -0.0;

@@ -1,0 +1,7 @@
+//  this file tests implicit type promotion
+//  int promotes to double
+//  both int and double promote to string
+int a = 42;
+double b = .9999;
+string c = "a + b = ";
+string d = c + a + " + " + b + " = " + (a + b);
